@@ -11,6 +11,7 @@ Eine Datei stagen
 git add onefile
 
 ```
+Alles stagen
 
 ```
 git add .
