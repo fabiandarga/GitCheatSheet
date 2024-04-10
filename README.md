@@ -8,4 +8,9 @@ git init
 Eine Datei stagen
 ```
 git add onefile
+
+```
+
+```
+git add .
 ```
