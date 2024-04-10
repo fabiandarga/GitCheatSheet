@@ -1,1 +1,3 @@
-# GitChheatSheet
+# GitCheatSheet
+
+## Git Basics
