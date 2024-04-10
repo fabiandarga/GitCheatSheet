@@ -1,5 +1,5 @@
 # GitCheatSheet
-Dies ist ein Spickzettel für Git.
+Dies ist ein CheatSheet für Git.
 
 ## Git Basics
 Inittialisieren des Repos
