@@ -2,6 +2,8 @@
 Dies ist ein toller Spickzettel für Git.
 mehr Text.
 
+:) 
+
 ## Git Basics
 Inittialisieren des Repos
 ```
